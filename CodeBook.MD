@@ -40,7 +40,7 @@ Merge data subset "finalset_mean_std" with the "activity_labels" table to inlude
 ## Part 4. Appropriately label the data set with descriptive activity names.
 This was already achieved by steps Reading testing sets, Reading feature and activity sets and Using descriptive activity names to name the activities in the data set steps in the code
 
-## Section 5. Create a second, independent tidy data set with the average of each variable for each activity and each subject. 
+## Part 5. Create a second, independent tidy data set with the average of each variable for each activity and each subject. 
 The final instructions were to create a second data set with the average of each veriable for each activity and subject      
  
 ### Source (if you need the original files)
