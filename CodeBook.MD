@@ -1,5 +1,4 @@
-
-# Getting and Cleaning Data Course Project
+P# Getting and Cleaning Data Course Project
 Oliver González Marzo 2017
 
 ### Overview
@@ -31,7 +30,7 @@ For each record in the dataset it is provided:
     - features.txt
     - activity_labels.txt
       
-## part 2 Extract only the measurements on the mean and standard deviation for each measurement. 
+## Part 2 Extract only the measurements on the mean and standard deviation for each measurement. 
 Get column names for activity, Id, subject, mean, std, then create a subset "finalset_mean_std" that contains TRUE for mean and stdev columns and FALSE values for the other.
 
 ## Part 3. Use descriptive activity names to name the activities in the data set
