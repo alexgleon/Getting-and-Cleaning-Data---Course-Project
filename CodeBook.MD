@@ -1,4 +1,4 @@
-P# Getting and Cleaning Data Course Project
+# Getting and Cleaning Data Course Project
 Oliver González Marzo 2017
 
 ### Overview
@@ -23,8 +23,8 @@ For each record in the dataset it is provided:
       - y_test.txt
       - subject_test.txt
   - reading the train files
-    - X_train
-    - y_train.xt
+    - X_train.txt
+    - y_train.txt
     - subject_train.txt
   - reading features and activity  
     - features.txt
